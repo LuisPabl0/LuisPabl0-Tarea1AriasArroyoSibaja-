@@ -1,3 +1,6 @@
+# Para que un while true? Eso es mala práctica
+# ERR3 -1.5 EL error es el mismo en ambos casos, debia ser único
+
 class Prueba1:
     # Se define la funcion multiple_op
     def multiple_op(numero):

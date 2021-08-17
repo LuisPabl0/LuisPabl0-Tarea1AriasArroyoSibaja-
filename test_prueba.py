@@ -1,6 +1,9 @@
 # Se importan las librerias requeridas
 import random
 from Prueba1 import Prueba1
+# ERR1x2 -3
+# ERR2x4 -10 Los test positivos no verifican el valor de las operaciones
+# los casos negativos nunca verifican que el error retornado sea el esperado
 
 
 # Caso de exito del metodo multiple_op
